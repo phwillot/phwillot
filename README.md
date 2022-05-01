@@ -3,7 +3,7 @@
 
 
 - 🌱 Technologies that I am learning currently: 
-  - **NodeJS (Express)**
+  - **NodeJS and Express**
   - **MongoDB**
   - **Python**
 
