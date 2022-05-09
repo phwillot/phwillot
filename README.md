@@ -4,8 +4,8 @@
 
 - 🌱 Technologies that I am learning currently: 
   - **NodeJS and Express**
-  - **MongoDB**
-  - **Python**
+  - **PostgreSQL**
+  - **Docker**
 
 - 📫 How to reach me **willot.ph@gmail.com**
 
