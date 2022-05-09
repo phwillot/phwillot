@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Philippe</h1>
-<h3 align="center">I'm a Holberton School student who is passionate about web development and I'm currently looking for an internship of 6 months starting at mid July in order to put in practice what I've learned.</h3>
+<h3 align="center">I'm a Holberton School student who is passionate about web development and I'm currently looking for an internship of 6 months starting at mid August in order to put in practice what I've learned.</h3>
 
 
 - 🌱 Technologies that I am learning currently: 
