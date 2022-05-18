@@ -7,7 +7,7 @@
   - **Python | Flask**
   - **MongoDB | SQLite**
 
-- 📫 Get in touch with me with : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/phwillot/)**
+- 📫 Get in touch with me : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/phwillot/)**
 
 </p>
 
