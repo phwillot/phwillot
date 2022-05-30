@@ -1,11 +1,10 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">I'm Philippe, a Holberton School student who is passionate about back-end development and I'm currently looking for an internship of 6 months starting at mid August in order to put in practice what I've learned.</h3>
+<h3 align="center">I'm Philippe, a Holberton School student who is passionate about back-end development</h3>
 
 
-- 🌱 Technologies that I am currently learning and I want to use in my internship :
+- 🌱 Technologies that I am currently learning :
   - **NodeJS | Express**
   - **Python | Flask**
-  - **MongoDB | SQLite**
 
 - 📫 Get in touch with me : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/phwillot/)**
 
