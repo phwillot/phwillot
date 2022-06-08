@@ -3,8 +3,7 @@
 
 
 - 🌱 Technologies that I am currently learning :
-  - **NodeJS | Express**
-  - **Python | Flask**
+  - **NodeJS | Express | Jest**
 
 - 📫 Get in touch with me : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/phwillot/)**
 
