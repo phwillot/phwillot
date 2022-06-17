@@ -2,7 +2,7 @@
 <h3 align="center">I'm Philippe, a young back-end developper.</h3>
 
 
-- 📫 Get in touch with me : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/phwillot/)**
+- 📫 Get in touch with me : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/philwillot/)**
 
 </p>
 
