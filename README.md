@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">I'm Philippe, a Holberton School student who is passionate about back-end development.</h3>
+<h3 align="center">I'm Philippe, a young back-end developper.</h3>
 
 
 - 🌱 Technologies that I am currently learning :
