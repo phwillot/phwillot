@@ -2,9 +2,6 @@
 <h3 align="center">I'm Philippe, a young back-end developper.</h3>
 
 
-- 🌱 Technologies that I am currently learning :
-  - **NodeJS | Express | Jest**
-
 - 📫 Get in touch with me : **willot.ph@gmail.com** | **[LinkedIn](https://www.linkedin.com/in/phwillot/)**
 
 </p>
